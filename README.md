@@ -1,4 +1,4 @@
-# UBayFS_experiments
+# UBayFS experiments
 
 This repository contains code supporting the experiments for the manuscript entitled "A User-Guided Bayesian Framework for Ensemble Feature Selection in Life Science Applications (UBayFS)"
 
