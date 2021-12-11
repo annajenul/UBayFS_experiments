@@ -1,6 +1,6 @@
 # UBayFS experiments
 
-This repository contains code supporting the experiments for the manuscript entitled "A User-Guided Bayesian Framework for Ensemble Feature Selection in Life Science Applications (UBayFS)"
+This repository contains code supporting the experiments for the manuscript entitled "A User-Guided Bayesian Framework for Ensemble Feature Selection in Life Science Applications (UBayFS)" available on arXiv https://arxiv.org/abs/2104.14787
 
 Experiments are performed on R v4.1.1 / R Studio v1.4 using the following software packages:
 - DirichletReg v0.7-0 (Dirichlet distribution)
